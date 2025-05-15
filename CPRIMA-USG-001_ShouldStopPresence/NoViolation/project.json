@@ -1,0 +1,13 @@
+{
+  "name": "CPRIMA-USG-001-Compliant",
+  "description": "Demonstrates a UiPath project that includes a ShouldStop activity as required by rule CPRIMA-USG-001. This project complies with the custom Workflow Analyzer rule.",
+  "dependencies": {
+    "UiPath.System.Activities": "[22.10.4]",
+    "UiPath.Testing.Activities": "[22.10.3]"
+  },
+  "main": "Main.xaml",
+  "projectType": "Process",
+  "schemaVersion": "4.0",
+  "studioVersion": "22.10.5.0",
+  "targetFramework": "Windows"
+}
