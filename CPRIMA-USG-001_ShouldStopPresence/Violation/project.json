@@ -1,0 +1,13 @@
+{
+  "name": "CPRIMA-USG-001-Violating",
+  "description": "Demonstrates a UiPath project that omits the ShouldStop activity, thereby violating rule CPRIMA-USG-001. This project is intended to trigger the rule’s error condition.",
+  "dependencies": {
+    "UiPath.System.Activities": "[22.10.4]",
+    "UiPath.Testing.Activities": "[22.10.3]"
+  },
+  "main": "Main.xaml",
+  "projectType": "Process",
+  "schemaVersion": "4.0",
+  "studioVersion": "22.10.5.0",
+  "targetFramework": "Windows"
+}
